@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tune Trainers: Home</title>
+</head>
+<body>
+<img src="images/guitar-banner.png" alt="Banner Image">
+
+<ul></ul>
+<li></li><a href="">Home</a></li>
+<li><a href="">About</a></li>
+<li><a href="">Contact Us</a></li>
+</ul>
+  
+<hr>
+
+<h1>Home</h1>
+<p>This is a paragraph.</p>
+
+<hr>
+<p>This website is a project created for my class at <a href="https://www.usu.edu/">Utah State University</a>.</p>
+<p>&copy<b>Copyright 2026. All Rights Reserved</b></p>
+<address>contact@tunetrainers.net</address>
+
+</body>
+</html>
